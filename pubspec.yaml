@@ -59,6 +59,24 @@ flutter:
   # the material Icons class.
   uses-material-design: true
 
+  assets:
+    - images/
+    # - images/bandung.png
+    # - images/jakarta.png
+    # - images/yogyakarta.png
+    # - images/samarinda.png
+    # - images/bali.jpg
+    # - images/manado.jpg
+    # - images/surabaya.jpg
+
+  fonts:
+    - family: Staatliches
+      fonts:
+        - asset: fonts/Staatliches-Regular.ttf
+    - family: Oxygen
+      fonts:
+        - asset: fonts/Oxygen-Regular.ttf
+
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
